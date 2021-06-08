@@ -5,19 +5,5 @@ The input starts by the number n (alone in a line) followed by n lines, each hol
 Again all words contain no digits.
 The output is like in the examples below.
 
-input          	output
-9
-try
-google
-it
-2
-plus
-2
-=
-52
--10	           try-google-it
-                  2
-                  plus
-                  2
-                  =
-                  42
+input: 9, try, google, it, 2, plus, 2, =, 52, -10
+output: try-google-it, 2, plus, 2, =, 42
